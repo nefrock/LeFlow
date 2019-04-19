@@ -30,7 +30,7 @@ import argparse
 ########## Configurations ##########
 ####################################
 python_path="/usr/bin/python"
-legup_examples_folder="/home/legup/legup-4.0/examples/"
+legup_examples_folder="/root/legup_src/legup-4.0/examples/"
 
 ####################################
 ######### Compilation Flow #########
